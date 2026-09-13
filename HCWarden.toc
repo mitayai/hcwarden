@@ -1,0 +1,18 @@
+## Interface: 11509
+## Title: HCWarden
+## Notes: Death-risk warnings, nearby-danger tracking, and a compact vitals HUD for Hardcore play.
+## Author: You
+## Version: 0.1.0
+## SavedVariables: HCWardenDB
+## OptionalDeps: Pawn
+
+Core.lua
+Alerts.lua
+DangerZone.lua
+CastBar.lua
+HUD.lua
+TargetHUD.lua
+TotemBar.lua
+WeaponBar.lua
+PawnUpgradeAlert.lua
+PawnScaleSetup.lua
